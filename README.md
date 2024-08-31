@@ -8,6 +8,5 @@ I'm a freshie at FAST NUCES-Karachi, majoring in Computer Science. I'm passionat
 - **Programming Interests:** System Design, Website/Game Development, Problem-Solving
 - **Hobbies:** Chess, Playing Valorant, Space enthusiast
 
-A cool picture:
 ![Let's do this!](k755.jfif)
 
