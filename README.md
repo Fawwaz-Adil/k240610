@@ -8,5 +8,5 @@ I'm a freshie at FAST NUCES-Karachi, majoring in Computer Science. I'm passionat
 - **Programming Interests:** System Design, Website/Game Development, Problem-Solving
 - **Hobbies:** Chess, Playing Valorant, Space enthusiast
 
-![Let's do this](C:\Users\User\Documents\Wallpapers New\wallpaperflare.com_wallpaper (4).jpg)
+![Let's do this](https://www.wallpaperflare.com/two-computer-flat-screen-monitors-turned-on-dark-design-desk-wallpaper-azgbx/download/1920x1080)
 
