@@ -1,6 +1,6 @@
 # Hello, I am Fawwaz Adil - k240610
 
-I'm a freshie at FAST NUCES-Karachi, majoring in Computer Science. I'm passionate about coding, especially in game development, and I'm excited to learn and grow in my field.
+I'm a freshie at FAST NUCES-Karachi, majoring in Computer Science. I'm passionate about discovering the different fields where computer science is applicable and finding a niche at one of them.
 
 ## A bit about me:
 - **Current Major:** BS Computer Science
